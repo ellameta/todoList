@@ -4,5 +4,3 @@ A simple todo list that helps you add, remove and mark items as done. This was m
 
 If you wish to see the website live please click on the link:
 https://ellameta.github.io/todoList-by-me/
-
-
